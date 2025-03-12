@@ -1,0 +1,4 @@
+Here I could add some different colors or ui's.
+
+But what if I brnach and don't commit the main first before merging?
+Let's how that works
